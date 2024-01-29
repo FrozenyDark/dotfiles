@@ -29,7 +29,6 @@ return {
 				"prettier",
 				"stylua",
 				"eslint_d",
-				"ast-grep",
 				"clang-format",
 			},
 		},
